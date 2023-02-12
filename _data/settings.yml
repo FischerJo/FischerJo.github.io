@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'about',   url: 'about.html'}
 - {name: 'news', url: 'news.html'}
-- {name: 'short CV', url: 'shortcv.html'}
+- {name: 'short cv', url: 'shortcv.html'}
 - {name: 'publications', url: 'publications.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
@@ -23,8 +23,8 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'newer'
+  previous_page: 'older'
 
 sharing_button_prompt: 'Feel free to share!'
 
