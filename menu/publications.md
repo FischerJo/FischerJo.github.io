@@ -10,7 +10,7 @@ Kamp, M, Fischer, J, Vreeken, J, ***Federated Learning from Small Datasets***. I
 
 Fischer, J, Burkholz, R, Vreeken, J, ***Preserving local densities in low-dimensional embeddings***. preprint: arXiv:2301.13732, 2023.  \[[preprint](https://arxiv.org/abs/2301.13732)\]
 
-Fischer, J, Schulz, MH, ***Efficiently Quantifying DNA Methylation for Bulk- and Single-cell Bisulfite Data***. Bioinformatics, Oxford Universit Press, to appear, 2023.  \[[preprint](https://www.biorxiv.org/content/10.1101/2023.01.27.525734v1)\]
+Fischer, J, Schulz, MH, ***Efficiently Quantifying DNA Methylation for Bulk- and Single-cell Bisulfite Data***. Bioinformatics, Oxford University Press, to appear, 2023.  \[[preprint](https://www.biorxiv.org/content/10.1101/2023.01.27.525734v1)\]
 
 ## 2022
 
