@@ -20,7 +20,7 @@ Kamp, M, Fischer, J, Vreeken, J, ***Federated Learning from Small Datasets***. I
 
 Fischer, J, Burkholz, R, Vreeken, J, ***Preserving local densities in low-dimensional embeddings***. preprint: arXiv:2301.13732, 2023.  \[[preprint](https://arxiv.org/abs/2301.13732)\]
 
-Fischer, J, Schulz, MH, ***Efficiently Quantifying DNA Methylation for Bulk- and Single-cell Bisulfite Data***. Bioinformatics 39(6), Oxford University Press, 2023.  \[[Article](https://academic.oup.com/bioinformatics/article/39/6/btad386/7199582)\]
+Fischer, J, Schulz, MH, ***Efficiently Quantifying DNA Methylation for Bulk- and Single-cell Bisulfite Data***. Bioinformatics 39(6), Oxford University Press, 2023. (IF: 5.8, 2023) \[[Article](https://academic.oup.com/bioinformatics/article/39/6/btad386/7199582)\]
 
 ## 2022
 
@@ -39,7 +39,7 @@ Fischer, J, Vreeken, J, ***Differentiable Pattern Set Mining***. In: Proceedings
 
 Fischer, J, Oláh, A, Vreeken, J, ***What's in the Box? Explaining Neural Networks with Robust Rules***. In: Proceedings of the International Conference on Machine Learning (ICML), PMLR, 2021. (21.4% acceptance rate, Core A*)  \[[PDF](https://proceedings.mlr.press/v139/fischer21b/fischer21b.pdf)\]
 
-Fischer, J, Ardakani, FB, Kattler, K, Walter, J, Schulz, MH, ***CpG content-dependent associations between transcription factors and histone modifications***. Plos ONE 16(4): e0249985, 2021. (IF: 3.7)  \[[Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249985)\]
+Fischer, J, Ardakani, FB, Kattler, K, Walter, J, Schulz, MH, ***CpG content-dependent associations between transcription factors and histone modifications***. Plos ONE 16(4): e0249985, 2021. (IF: 3.7, 2023)  \[[Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249985)\]
 
 Fischer, J‡, Gadhikar‡, A, Burkholz, R, ***Lottery Tickets with Nonzero Biases***. preprint: arXiv:2110.11150, 2021.  \[[preprint](https://arxiv.org/abs/2110.11150)\]   
 ‡equal contribution
@@ -58,7 +58,7 @@ Fischer, J, Schulz, MH, ***Fast and accurate bisulfite alignment and methylation
 
 ## 2018
 
-Ardakani, FB Kattler, K, Nordström, KJ, Gasparoni, N, Gasparoni, G, Fuchs, S, Sinha, A, Barann, M, Ebert, P, Fischer, J, Hutter, B, Zipprich, G, Imbusch, CD, Felder, B, Eils, J, Brors, B, Lengauer, T, Manke, T, Rosenstiel, P, Walter, J, Schulz, MH, ***Integrative analysis of single-cell expression data reveals distinct regulatory states in bidirectional promoters***. Epigenetics & Chromatin 11(1): 66, 2018. (IF: 5.5)  \[[Article](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-018-0236-7)\]
+Ardakani, FB Kattler, K, Nordström, KJ, Gasparoni, N, Gasparoni, G, Fuchs, S, Sinha, A, Barann, M, Ebert, P, Fischer, J, Hutter, B, Zipprich, G, Imbusch, CD, Felder, B, Eils, J, Brors, B, Lengauer, T, Manke, T, Rosenstiel, P, Walter, J, Schulz, MH, ***Integrative analysis of single-cell expression data reveals distinct regulatory states in bidirectional promoters***. Epigenetics & Chromatin 11(1): 66, 2018. (IF: 5.5, 2023)  \[[Article](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-018-0236-7)\]
 
 Fischer, J, Schulz, MH, ***Fast and accurate bisulfite alignment and methylation calling for mammalian genomes***. Short talk/poster at RECOMB-seq/RECOMB, Paris, France, 2018.
 
