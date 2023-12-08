@@ -6,11 +6,21 @@ permalink: /publications
 
 ## 2023
 
+Walter, NP, Fischer, J, Vreeken, J, ***Finding Interpretable Class-Specific Patterns through Efficient Neural Search*** preprint: arXiv:2312.04311, 2023. \[[preprint](https://arxiv.org/abs/2312.04311)\]
+
+Hedderich, M‡, Fischer, J‡, Klakow, D, Vreeken, J, ***Understanding and Mitigating Classification Errors Through Interpretable Token Patterns*** Empirical Methods in Natural Language Processing (EMNLP) Workshop BlackboxNLP, 2023. \[[preprint](https://arxiv.org/abs/2311.10920)\]
+‡equal contribution
+
+Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL, Quackenbush, J, Lopes-Ramos, CM, ***Gene regulatory Networks Reveal Sex Difference in Lung Adenocarcinoma*** preprint: bioRxiv:10.1101/2023.09.22.559001v1, 2023. \[[preprint](https://www.biorxiv.org/content/10.1101/2023.09.22.559001v1)\]
+
+Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, *****Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** preprint: bioRxiv:10.1101/2023.11.16.567119v1, 2023. \[[preprint](https://www.biorxiv.org/content/10.1101/2023.11.16.567119v1)\]
+‡equal contribution
+
 Kamp, M, Fischer, J, Vreeken, J, ***Federated Learning from Small Datasets***. International Conference on Learning Representations (ICLR), OpenReview, 2023. (31.8% acceptance rate, Core A*) \[[preprint](https://arxiv.org/abs/2110.03469)\]
 
 Fischer, J, Burkholz, R, Vreeken, J, ***Preserving local densities in low-dimensional embeddings***. preprint: arXiv:2301.13732, 2023.  \[[preprint](https://arxiv.org/abs/2301.13732)\]
 
-Fischer, J, Schulz, MH, ***Efficiently Quantifying DNA Methylation for Bulk- and Single-cell Bisulfite Data***. Bioinformatics, Oxford University Press, to appear, 2023.  \[[preprint](https://www.biorxiv.org/content/10.1101/2023.01.27.525734v1)\]
+Fischer, J, Schulz, MH, ***Efficiently Quantifying DNA Methylation for Bulk- and Single-cell Bisulfite Data***. Bioinformatics 39(6), Oxford University Press, 2023.  \[[Article](https://academic.oup.com/bioinformatics/article/39/6/btad386/7199582)\]
 
 ## 2022
 
