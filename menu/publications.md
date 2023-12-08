@@ -13,7 +13,7 @@ Hedderich, M‡, Fischer, J‡, Klakow, D, Vreeken, J, ***Understanding and Miti
 
 Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL, Quackenbush, J, Lopes-Ramos, CM, ***Gene regulatory Networks Reveal Sex Difference in Lung Adenocarcinoma*** preprint: bioRxiv:10.1101/2023.09.22.559001v1, 2023. \[[preprint](https://www.biorxiv.org/content/10.1101/2023.09.22.559001v1)\]
 
-Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, *****Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** preprint: bioRxiv:10.1101/2023.11.16.567119v1, 2023. \[[preprint](https://www.biorxiv.org/content/10.1101/2023.11.16.567119v1)\]
+Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** preprint: bioRxiv:10.1101/2023.11.16.567119v1, 2023. \[[preprint](https://www.biorxiv.org/content/10.1101/2023.11.16.567119v1)\]
 ‡equal contribution
 
 Kamp, M, Fischer, J, Vreeken, J, ***Federated Learning from Small Datasets***. International Conference on Learning Representations (ICLR), OpenReview, 2023. (31.8% acceptance rate, Core A*) \[[preprint](https://arxiv.org/abs/2110.03469)\]
