@@ -16,7 +16,7 @@ Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL,
 Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** preprint: bioRxiv:10.1101/2023.11.16.567119v1, 2023. \[[preprint](https://www.biorxiv.org/content/10.1101/2023.11.16.567119v1)\]
 ‡equal contribution
 
-Kamp, M, Fischer, J, Vreeken, J, ***Federated Learning from Small Datasets***. International Conference on Learning Representations (ICLR), OpenReview, 2023. (31.8% acceptance rate, Core A*) \[[preprint](https://arxiv.org/abs/2110.03469)\]
+Kamp, M, Fischer, J, Vreeken, J, ***Federated Learning from Small Datasets***. International Conference on Learning Representations (ICLR), OpenReview, 2023. (31.8% acceptance rate, Core A*) \[[PDF](https://openreview.net/forum?id=hDDV1lsRV8)\]
 
 Fischer, J, Burkholz, R, Vreeken, J, ***Preserving local densities in low-dimensional embeddings***. preprint: arXiv:2301.13732, 2023.  \[[preprint](https://arxiv.org/abs/2301.13732)\]
 
