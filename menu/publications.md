@@ -6,9 +6,9 @@ permalink: /publications
 
 ## 2023
 
-Walter, NP, Fischer, J, Vreeken, J, ***Finding Interpretable Class-Specific Patterns through Efficient Neural Search*** preprint: arXiv:2312.04311, 2023. \[[preprint](https://arxiv.org/abs/2312.04311)\]
+Walter, NP, Fischer, J, Vreeken, J, ***Finding Interpretable Class-Specific Patterns through Efficient Neural Search*** accepted at AAAI Conference on Artificial Intelligence (AAAI), 2024. \[[preprint](https://arxiv.org/abs/2312.04311)\]
 
-Hedderich, M‡, Fischer, J‡, Klakow, D, Vreeken, J, ***Understanding and Mitigating Classification Errors Through Interpretable Token Patterns*** Empirical Methods in Natural Language Processing (EMNLP) Workshop BlackboxNLP, 2023. \[[preprint](https://arxiv.org/abs/2311.10920)\]
+Hedderich, M‡, Fischer, J‡, Klakow, D, Vreeken, J, ***Understanding and Mitigating Classification Errors Through Interpretable Token Patterns*** Empirical Methods in Natural Language Processing (EMNLP) BlackboxNLP workshop, 2023. \[[preprint](https://arxiv.org/abs/2311.10920)\]
 ‡equal contribution
 
 Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL, Quackenbush, J, Lopes-Ramos, CM, ***Gene regulatory Networks Reveal Sex Difference in Lung Adenocarcinoma*** preprint: bioRxiv:10.1101/2023.09.22.559001v1, 2023. \[[preprint](https://www.biorxiv.org/content/10.1101/2023.09.22.559001v1)\]
