@@ -7,10 +7,13 @@ permalink: /shortcv
 
 ## Academic Experience
 
-- 08/2022\- Postdoctoral fellow, [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/)   
+- 01/2024\-  Research Group Leader, [Department for Computer Vision and Machine Learning](https://www.mpi-inf.mpg.de/de/departments/computer-vision-and-machine-learning)   
+Max Planck Institute for Informatics
+
+- 08/2022\- 12/2023 Postdoctoral fellow, [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/)   
 Harvard University, T.H. Chan School of Public Health
 
-- 12/2017\-03/2022 PhD in Computer Science *summa cum laude*   
+- 12/2017\-07/2022 PhD in Computer Science *summa cum laude*   
 [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) and [Saarland University](https://saarland-informatics-campus.de)
 
 - 2015\-2017 PhD Preparatory Phase, Graduate School for Computer Science   
@@ -21,6 +24,20 @@ Harvard University, T.H. Chan School of Public Health
 
 - 2012\-2015 BSc in Computational Biology   
 [Saarland University](https://zbi-www.bioinf.uni-sb.de)
+
+
+### Reviewing
+
+***Conferences***
+SDM21, NeurIPS23, AAAI23, ICML24 (reviewer)
+SIGKDD18, NeurIPS18, NeurIPS19 (external reviewer)
+
+***Journals***
+Journal for Knowledge and Information Systems
+IEEE/ACM Transactions on Computational Biology and Bioinformatics
+Cancer Research
+
+Phase 1 evaluator for [ELLIS PhD Program](https://ellis.eu/phd-postdoc) candidates 2022
 
 
 ## Visits and Internships
