@@ -29,13 +29,17 @@ Harvard University, T.H. Chan School of Public Health
 ### Reviewing
 
 ***Conferences***
+
 SDM21, NeurIPS23, AAAI23, ICML24 (reviewer)
-SIGKDD18, NeurIPS18, NeurIPS19 (external reviewer)
+
+NeurIPS19, NeurIPS18, SIGKDD18 (external reviewer)
 
 ***Journals***
-Journal for Knowledge and Information Systems
-IEEE/ACM Transactions on Computational Biology and Bioinformatics
+
+Journal for Knowledge and Information Systems,
+IEEE/ACM Transactions on Computational Biology and Bioinformatics,
 Cancer Research
+
 
 Phase 1 evaluator for [ELLIS PhD Program](https://ellis.eu/phd-postdoc) candidates 2022
 
