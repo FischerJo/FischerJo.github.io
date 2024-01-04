@@ -12,6 +12,8 @@ Walter, NP, Fischer, J, Vreeken, J, ***Finding Interpretable Class-Specific Patt
 Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** accepted at conference for Research in Computational Molecular Biology (RECOMB), 2024. (16.5% acceptance rate) \[[preprint](https://www.biorxiv.org/content/10.1101/2023.11.16.567119v1)\]
 ‡equal contribution
 
+Hossain, I, Fanfani, V, Fischer, J, Quackenbush, J, Burkholz, J, ***Biologically informed NeuralODEs for genome-wide regulatory dynamics*** preprint: bioRxiv:10.1101/2023.02.24.529835v2, 2024 \[[preprint](https://www.biorxiv.org/content/10.1101/2023.02.24.529835v2)\]
+
 ## 2023
 
 Hedderich, M‡, Fischer, J‡, Klakow, D, Vreeken, J, ***Understanding and Mitigating Classification Errors Through Interpretable Token Patterns*** Empirical Methods in Natural Language Processing (EMNLP) BlackboxNLP workshop, 2023. \[[preprint](https://arxiv.org/abs/2311.10920)\]
