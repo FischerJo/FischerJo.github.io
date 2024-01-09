@@ -30,7 +30,7 @@ Harvard University, T.H. Chan School of Public Health
 
 ***Conferences***
 
-SDM21, NeurIPS23, AAAI23, ICML24 (reviewer)
+ICML24, AAAI24, NeurIPS23, SDM21 (reviewer)
 
 NeurIPS19, NeurIPS18, SIGKDD18 (external reviewer)
 
@@ -41,7 +41,7 @@ IEEE/ACM Transactions on Computational Biology and Bioinformatics,
 Cancer Research
 
 
-Phase 1 evaluator for [ELLIS PhD Program](https://ellis.eu/phd-postdoc) candidates 2022
+Phase 1 reviewer for [ELLIS PhD Program](https://ellis.eu/phd-postdoc) candidates 2022
 
 
 ## Visits and Internships
